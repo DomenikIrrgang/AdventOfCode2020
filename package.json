@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "description": "Solutions for advent of code 2020.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DomenikIrrgang/AdventOfCode2020.git"
+  },
+  "author": "Domenik Irrgang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DomenikIrrgang/AdventOfCode2020/issues"
+  },
+  "homepage": "https://github.com/DomenikIrrgang/AdventOfCode2020#readme",
+  "dependencies": {
+    "@types/node": "^14.14.11",
+    "fs": "0.0.1-security"
+  }
+}
